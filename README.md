@@ -1,2 +1,2 @@
 # Assignment-1
-Figma : Frame 53
+Figma 53
